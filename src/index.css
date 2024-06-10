@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('C:/Users/TUF GAMING/AppData/Local/Microsoft/Windows/Fonts/Gilroy-Black.ttf') format('truetype');
+  }
+
+
+  .gilroy-font {
+    font-family: 'Gilroy', sans-serif;
+  }
